@@ -8,6 +8,7 @@
  * graphic logo is a trademark of OpenMRS Inc.
  */
 
+
 const expect = require('chai').expect;
 
 describe('Travis Test', () => {
